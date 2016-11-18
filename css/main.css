@@ -1,0 +1,12 @@
+body {
+  margin-top: 40px;
+}
+
+th {
+  padding: 12px !important;
+  font-weight: bold !important;
+}
+
+td {
+  padding: 12px !important;
+}
